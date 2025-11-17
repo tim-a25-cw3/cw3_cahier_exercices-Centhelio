@@ -1,0 +1,26 @@
+.footer{
+    text-align: center;
+    padding: 40px 0;
+
+    h4{
+        font-weight: 300;
+        color: rgba($color: #ffff, $alpha: .55);
+
+        span{
+            color: white;
+            font-weight: 600;
+        }
+    }
+
+    h4, p, ul, li, a{
+        margin: 0;
+    }
+    
+}
+
+ul{
+    padding-top: var(--spacing-md);
+    list-style: none;
+    display: flex;
+}
+
