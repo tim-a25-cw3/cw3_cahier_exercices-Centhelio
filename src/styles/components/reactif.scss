@@ -1,0 +1,14 @@
+.reactif{
+    background-color: var(--color-primary);
+
+    h2, h3, p, span, .tag{
+        color: var(--color-black);
+    }
+
+    .buttons{
+        background-color: var(--color-white);
+    }
+    .buttons:hover{
+        color: var(--color-primary);
+    }
+}
