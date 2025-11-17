@@ -19,8 +19,14 @@
 }
 
 ul{
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-lg);
     padding-top: var(--spacing-md);
     list-style: none;
-    display: flex;
+
+    a{
+        color: #8C8C8C;
+    }
 }
 
