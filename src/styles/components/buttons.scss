@@ -1,0 +1,15 @@
+.buttons{
+    background-color: var(--color-primary);
+    border-radius: 100px;
+    padding: 8px 16px;
+
+    font-size: 16px;
+    color: var(--color-black);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.buttons:hover{
+    color: var(--color-white);
+    text-decoration: none;
+}   
